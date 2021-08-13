@@ -1,18 +1,17 @@
 
-Environment£º
+Environmentï¼š
 
 Python 3.x
 PyTorch 1.0
 
 -------------------------------------------------------------
 
-Run£º
+Runï¼š
 
-SRSÍøÂç£¬ĞŞ¸Ätrain_toy.pyÎÄ¼ş£¬Run
+SRSï¼š
 
 $ python train_toy.py --data 8gaussians
 
-
-ÆäËûÍøÂç£º
+othersï¼š
 
 $ python train_toy.py --act softplus --data 8gaussians
